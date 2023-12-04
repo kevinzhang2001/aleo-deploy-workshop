@@ -1,6 +1,7 @@
 ### Proof of Completion!
 ![](./minting.png)
-![](./transfering.png)
+
+![](./transferring.png)
 
 # Aleo Deployment Demo
 
